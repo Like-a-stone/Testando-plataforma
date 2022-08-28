@@ -6,4 +6,3 @@ Estou aprendendo como a mexer em repositórios remotos
 - Alterar arquivos
 - Criar marcos historicos
 
-Esta é a segunda ramificação
